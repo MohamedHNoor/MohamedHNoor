@@ -8,8 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedHNoor&label=Profile%20views&color=brightgreen&style=flat-square" alt="MohamedHNoor" /> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" /> </p>
  
-  <br>
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohamedHNoor&show_icons=true&theme=gotham" alt="MohamedHNoor" /> -->
+ 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohamedHNoor&show_icons=true&theme=gotham" alt="MohamedHNoor" />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LIBERCOSOFT" alt="libercosoft" /></a> </p>
 
