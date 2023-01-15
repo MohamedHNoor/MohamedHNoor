@@ -8,6 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedHNoor&label=Profile%20views&color=brightgreen&style=flat-square" alt="MohamedHNoor" /> <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" /> </p>
  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHNoor)](https://github.com/anuraghazra/github-readme-stats)
   
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MohamedHNoor&show_icons=true&theme=gotham" alt="MohamedHNoor" /> -->
 
