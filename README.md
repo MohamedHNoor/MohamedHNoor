@@ -72,7 +72,7 @@
   <a href="https://twitter.com/MohamedHNoor" target="_blank" rel="noreferrer">
     <img src="./photos/Twitter.png" alt="Twitter"/>
   </a>
-  <a href="mailto:eng.mohmed.hassannoor114@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:mohmed.hassannoor114@gmail.com" target="_blank" rel="noreferrer">
     <img src="./photos/Gmail.png" alt="Gmail"/>
   </a>
 </div>
