@@ -2,12 +2,15 @@
 <h3 align="center">Full-stack Developer</h3>
 
 <div>
-  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="900" height="320" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/MohamedHNoor/blob/master/code.gif?raw=true" width="900" height="320" />
 </div>
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhnoor&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhnoor" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MohamedHNoor/count.svg" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedhnoor" alt="mohamedhnoor" /></a> </p>
 
