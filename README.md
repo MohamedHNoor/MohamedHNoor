@@ -1,5 +1,4 @@
-# 💫 About Me:
-I am a full-stack Developer with a passion for creating innovative and user-friendly applications that solve real-world problems. My journey to programming began towards the end of 2021, and since then, I've been passionate about expanding my knowledge and skills in the field. In pursuit of my passion, I enrolled in an online software program named Microverse in 2022, where I had the opportunity to study full-stack web development in great depth.
+![Header](https://github.com/MohamedHNoor/MohamedHNoor/assets/97671133/9c162984-22c9-4260-8ca6-a9e6263773c0)
 
 
 ## 🌐 Socials:
