@@ -1,10 +1,14 @@
-![Header](https://github.com/MohamedHNoor/MohamedHNoor/assets/97671133/1ecbe012-40a1-4602-8c39-e5038ee6ba5e)
+<!-- ![Header](https://github.com/MohamedHNoor/MohamedHNoor/assets/97671133/1ecbe012-40a1-4602-8c39-e5038ee6ba5e) -->
 
 
 # 💫 About Me:
-Welcome to my GitHub profile! I'm a passionate full-stack developer with expertise in Ruby, Ruby on Rails, React, Redux, and JavaScript. With a strong foundation in backend development using Ruby and Ruby on Rails, I enjoy crafting robust and scalable web applications. On the Front-end, I specialize in building dynamic and interactive user interfaces using React and Redux, harnessing the power of JavaScript.<br><br>My commitment to clean code, attention to detail, and continuous learning helps me deliver high-quality solutions that meet user needs and exceed expectations. I thrive in collaborative environments and enjoy working with cross-functional teams to tackle complex problems and deliver innovative solutions.<br><br>Feel free to explore my repositories, where you'll find a collection of projects showcasing my skills and expertise. I'm always open to new challenges and opportunities, so let's connect and create something amazing together! 
-- 📫 <a href="mailto:mohmed.hassannoor114@gmail.com">Send an email</a> 
+## Hi, my name is Mohamed Hassan Noor
 
+- 💻 I’m a Full-Stack Software Developer.
+- 🫱🏽‍🫲🏽 Ready to collaborate in JavaScript, React, Ruby and Ruby on Rails projects.
+- 📔 Recently graduated from [Microverse Inc](https://microverse.org).
+- 🤓 **Interests**: Movies, Tech News, Hiking and Boxing.
+- 💬You can reach out to me via [Email](mohmed.hassannoor114@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedhnoor) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MohamedHNoor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohamedHNoor)
