@@ -1,5 +1,10 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohamed Hassan Noor</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+a+Software+Developer+;I'm+a+Fullstack+Developer+;I'm+a+Backend+Developer+;I'm+a+Frontend+Developer+;" alt="Typing SVG">
+  </a>
+</p>
 
 # 💫 About Me:
 
