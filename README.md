@@ -1,4 +1,4 @@
-![Header](https://github.com/MohamedHNoor/MohamedHNoor/assets/97671133/1ecbe012-40a1-4602-8c39-e5038ee6ba5e)
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mohamed Hassan Noor</h1>
 
 
 # 💫 About Me:
