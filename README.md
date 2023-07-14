@@ -10,7 +10,7 @@
 
 - 💻 I am a passionate **Full Stack Developer** from **South Africa**.
 - 🔭 I’m working on full-stack projects using Ruby on Rails.
-- 🌱 I’m currently learning Node.js.
+- 🌱 I’m learning Node.js.
 - 🫱🏽‍🫲🏽 Ready to collaborate in JavaScript, React, Ruby, and Ruby on Rails projects.
 - 📔 Recently graduated from [Microverse Inc](https://microverse.org).
 - 💬 Ask me *anything* about `Technology`
