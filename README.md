@@ -8,11 +8,17 @@
 
 # 💫 About Me:
 
-- 💻 I’m a Full-Stack Software Developer.
-- 🫱🏽‍🫲🏽 Ready to collaborate in JavaScript, React, Ruby and Ruby on Rails projects.
+- 💻 I am a passionate **Full Stack Developer** from **South Africa**.
+- 🔭 I’m working on full-stack projects using Ruby on Rails.
+- 🌱 I’m currently learning Node.js.
+- 🫱🏽‍🫲🏽 Ready to collaborate in JavaScript, React, Ruby, and Ruby on Rails projects.
 - 📔 Recently graduated from [Microverse Inc](https://microverse.org).
-- 🤓 **Interests**: Movies, Tech News, Hiking and Boxing.
-- 💬You can reach out to me via <a href="mailto:mohmed.hassannoor114@gmail.com">Email</a> 
+- 💬 Ask me *anything* about `Technology`
+- ⚡ Fun fact: I love programming.
+- 📫 <a href="mailto:mohmed.hassannoor114@gmail.com">Send an email</a> 
+
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedhnoor) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@MohamedHNoor) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MohamedHNoor)
