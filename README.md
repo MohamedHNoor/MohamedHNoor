@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-Full-stack software developer with 1+ year of experience in
+- Full-stack software developer with 1+ year of experience in
 designing, creating, and managing production software
 solutions. Proficient in React, Ruby on Rails, and other relevant
 technologies. Experienced in API design and development and
