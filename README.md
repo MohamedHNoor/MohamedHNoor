@@ -8,13 +8,15 @@
 
 # 💫 About Me:
 
-- 💻 I am a passionate **Full Stack Developer** from **South Africa**.
-- 🔭 I’m working on full-stack projects using Ruby on Rails.
-- 🌱 I’m learning Node.js.
-- 🫱🏽‍🫲🏽 Ready to collaborate in JavaScript, React, Ruby, and Ruby on Rails projects.
-- 📔 Recently graduated from [Microverse Inc](https://microverse.org).
-- 💬 Ask me *anything* about `Technology`
-- ⚡ Fun fact: I love programming.
+Full-stack software developer with 1+ year of experience in
+designing, creating, and managing production software
+solutions. Proficient in React, Ruby on Rails, and other relevant
+technologies. Experienced in API design and development and
+building scalable solutions. Strong skills in teamwork and
+mentoring. contributed to the development of 10+ web projects,
+collaborating with cross-functional teams and following
+Agile/Scrum methodologies, resulting in a 15% reduction in
+development time and a 20% increase in code quality.
 - 📫 <a href="mailto:mohmed.hassannoor114@gmail.com">Send an email</a> 
 
 
