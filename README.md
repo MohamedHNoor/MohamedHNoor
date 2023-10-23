@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
--Passionate and dedicated Full Stack Developer with expertise in Ruby on Rails, JavaScript, and React. With a strong foundation in crafting intuitive web applications, thriving in innovative and collaborative environments.
+- Passionate and dedicated Full Stack Developer with expertise in Ruby on Rails, JavaScript, and React. With a strong foundation in crafting intuitive web applications, thriving in innovative and collaborative environments.
 - 📫 <a href="mailto:mohmed.hassannoor114@gmail.com">Get In Touch</a> 
 
 
