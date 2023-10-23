@@ -8,16 +8,8 @@
 
 # 💫 About Me:
 
-- Full-stack software developer with 1+ year of experience in
-designing, creating, and managing production software
-solutions. Proficient in React, Ruby on Rails, and other relevant
-technologies. Experienced in API design and development and
-building scalable solutions. Strong skills in teamwork and
-mentoring. contributed to the development of 10+ web projects,
-collaborating with cross-functional teams and following
-Agile/Scrum methodologies, resulting in a 15% reduction in
-development time and a 20% increase in code quality.
-- 📫 <a href="mailto:mohmed.hassannoor114@gmail.com">Send an email</a> 
+-Passionate and dedicated Full Stack Developer with expertise in Ruby on Rails, JavaScript, and React. With a strong foundation in crafting intuitive web applications, thriving in innovative and collaborative environments.
+- 📫 <a href="mailto:mohmed.hassannoor114@gmail.com">Get In Touch</a> 
 
 
 ## 🌐 Socials:
