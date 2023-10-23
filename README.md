@@ -8,7 +8,20 @@
 
 # 💫 About Me:
 
-- Passionate and dedicated Full Stack Developer with expertise in Ruby on Rails, JavaScript, and React. With a strong foundation in crafting intuitive web applications, thriving in innovative and collaborative environments.
+Passionate and dedicated Full Stack Developer with expertise in Ruby on Rails, JavaScript, and React. With a strong foundation in crafting intuitive web applications, thriving in innovative and collaborative environments.
+I'm constantly on the lookout for opportunities to expand my skills and tackle innovative projects that push the boundaries of these technologies.
+
+I am seeking a position with a company that embodies the following qualities:
+
+**Innovative and Forward-Thinking**: I am drawn to environments that are at the forefront of technology, continuously adapting, and setting new industry standards. I am excited to work with a company that values innovation and embraces emerging technologies to drive their products and services forward.
+
+**Team Collaboration**: I value being part of a team where collaboration and knowledge sharing are encouraged. I believe that when team members actively contribute their expertise and perspectives, it fosters mutual growth and understanding. I am looking for an organization that values teamwork and provides an environment where individuals can learn from one another and work together towards shared goals.
+
+**Opportunities for Growth**: As a full-stack developer, I am eager to work on projects that challenge me and provide opportunities for continuous learning and professional development. I seek a company that invests in the growth of its employees, whether through training programs, mentorship opportunities, or challenging projects that allow me to expand my skill set.
+
+I am open to joining companies of all scales, but I have a particular interest in smaller organizations where my contributions can have a significant impact. While my expertise lies in web development, specifically Ruby and Ruby on Rails, I am also proficient and enthusiastic about roles centered around React.
+
+If your organization aligns with these values and is in search of a dedicated developer skilled in Ruby on Rails, JavaScript, and React, I would be thrilled to discuss potential opportunities. I am confident that my technical skills, passion for innovation, and collaborative mindset would make me a valuable asset to your team.
 - 📫 <a href="mailto:mohmed.hassannoor114@gmail.com">Get In Touch</a> 
 
 
