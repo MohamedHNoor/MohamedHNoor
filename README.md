@@ -22,7 +22,7 @@ I am a passionate and dedicated Full Stack Developer with expertise in Ruby on R
 
 
 
-## 🌐 Socials:
+# 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedhnoor)  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=Gmail&logoColor=white)](mailto:mohmed.hassannoor114@gmail.com)
 
 
