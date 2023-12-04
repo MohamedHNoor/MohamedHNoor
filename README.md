@@ -18,7 +18,7 @@ I am a passionate and dedicated Full Stack Developer with expertise in Ruby on R
 
 - 💬 Ask me about: **React and Ruby on Rails**
 
-- ⚡ Fun facts: **I love hiking and swimming**
+- ⚡ Fun facts: **I love hiking, boxing and swimming**
 
 
 
