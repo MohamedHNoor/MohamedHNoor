@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-I am a passionate and dedicated Full Stack Developer with expertise in Ruby on Rails, JavaScript, React, and Redux. My strong foundation in crafting intuitive web applications enables me to thrive in innovative and collaborative environments. I am constantly seeking opportunities to expand my skills and take on innovative projects that push the boundaries of these technologies.
+I'm a passionate and dedicated Full Stack Developer with Ruby on Rails, JavaScript, React, and Redux expertise. My strong foundation in crafting intuitive web applications enables me to thrive in innovative and collaborative environments. I constantly seek opportunities to expand my skills and take on innovative projects to push these technologies' boundaries.
 
 - 🔭 I’m currently working on: **E-commerce store project**
 
