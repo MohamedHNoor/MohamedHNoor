@@ -1,24 +1,20 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hi 👋 My name is Mohamed Hassan Noor</h1>
 
-<h2 align="center">
+<h2 align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Mohamed+Hassan+Noor+;" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Full+Stack+Web+Developer+;" alt="Typing SVG">
   </a>
 </h2>
 
 # 💫 About Me:
 
-I am a highly motivated and dedicated Full Stack Developer with expertise in Ruby on Rails, JavaScript, React, and Redux. I possess a strong foundation in creating user-friendly web applications and thrive in collaborative and innovative environments. I am always seeking opportunities to enhance my skills and take on challenging projects that push the boundaries of these technologies.
+I am an experienced and driven Full Stack Web Developer with mastery in Ruby on Rails, JavaScript, React, and Redux. I have a proven track record of creating engaging and user-friendly web applications and thrive in dynamic and collaborative environments. I am constantly seeking new opportunities to grow and challenge myself with complex projects pushing these cutting-edge technologies' boundaries.
 
-- 🔭 I’m currently working on: **E-commerce store project**
-
-- 🌱 I’m currently learning: **Node JS, Express, MongoDB**
-
-- 👯 I’m looking to collaborate on: **React and Ruby on Rails projects**
-
-- 💬 Ask me about: **React and Ruby on Rails**
-
-- ⚡ Fun facts: **I love hiking, boxing and swimming**
+* 🌍  I'm based in South Africa
+* 🚀  I'm currently working on Ruby on Rails, Next.js, and React.js Projects
+* 🧠  I'm learning Node, Express, and MongoDB
+* 🤝  I'm open to collaborating on React.js, Next.js, and Ruby on Rails projects
+* ⚡  I enjoy Hiking and Swimming
 
 
 
