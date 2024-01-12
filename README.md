@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-I am an experienced and driven Full Stack Web Developer with mastery in Ruby on Rails, JavaScript, React, and Redux. I have a proven track record of creating engaging and user-friendly web applications and thrive in dynamic and collaborative environments. I am constantly seeking new opportunities to grow and challenge myself with complex projects pushing these cutting-edge technologies' boundaries.
+I am an experienced and driven Full Stack Web Developer with mastery in Ruby on Rails, Next.js, React.js, and Redux. I have a proven track record of creating engaging and user-friendly web applications and thrive in dynamic and collaborative environments. I am constantly seeking new opportunities to grow and challenge myself with complex projects pushing these cutting-edge technologies' boundaries.
 
 * 🌍  I'm based in South Africa
 * 🚀  I'm currently working on Ruby on Rails, Next.js, and React.js Projects
