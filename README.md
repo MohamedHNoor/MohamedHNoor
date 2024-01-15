@@ -12,7 +12,7 @@ I am an experienced and driven Full Stack Web Developer with mastery in Ruby on 
 
 * 🌍  I'm based in South Africa
 * 🚀  I'm currently working on Ruby on Rails, Next.js, and React.js Projects
-* 🧠  I'm learning Node, Express, and MongoDB
+* 🧠  I'm learning Node.js, Express, and MongoDB
 * 🤝  I'm open to collaborating on React.js, Next.js, and Ruby on Rails projects
 * ⚡  I enjoy Hiking and Swimming
 
