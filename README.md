@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-I am an experienced and driven Full Stack Web Developer with mastery in React.js, Redux, Next.js,  Node JS, Express, MongoDB, and Ruby on Rails. I have a proven track record of creating engaging and user-friendly web applications and thrive in dynamic and collaborative environments. I constantly seek new opportunities to grow and challenge myself with complex projects pushing these cutting-edge technologies' boundaries.
+I am a full-stack web developer passionate about creating interactive and responsive web applications. I have experience working with JavaScript, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, MySQL, HTML5, CSS3, Tailwind CSS, Bootstrap, and Git. I am a quick learner and always looking to expand my knowledge and skill set. I am a team player and am excited to work with others to create amazing applications.
 
 * 🌍  I'm based in South Africa
 * 🚀  I'm currently working on Ruby on Rails, Next.js, and React.js Projects
