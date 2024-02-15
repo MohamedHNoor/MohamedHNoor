@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-I am a passionate full-stack web developer with experience in creating interactive and responsive web applications. My skillset includes working with JavaScript, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, MySQL, HTML5, CSS3, Tailwind CSS, Bootstrap, and Git. I am always eager to expand my knowledge and skill set, and I am a quick learner. As a team player, I am excited to collaborate with others and create amazing applications.
+I'm a passionate full-stack web developer with experience in creating interactive and responsive web applications. My skillset includes working with JavaScript, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, MySQL, HTML5, CSS3, Tailwind CSS, Bootstrap, and Git. I am always eager to expand my knowledge and skill set, and I am a quick learner. As a team player, I am excited to collaborate with others and create amazing applications.
 
 * 🌍  I'm based in South Africa
 * 🚀  I'm currently working on Ruby on Rails, Next.js, and React.js Projects
