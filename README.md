@@ -8,13 +8,13 @@
 
 # 💫 About Me:
 
-I am a passionate full-stack web developer with experience in creating interactive and responsive web applications. My skillset includes working with JavaScript, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, MySQL, HTML5, CSS3, Tailwind CSS, Bootstrap, and Git. I am always eager to expand my knowledge and skill set, and I am a quick learner. As a team player, I am excited to collaborate with others and create amazing applications.
+I am a dedicated and passionate full-stack web developer, deeply immersed in a variety of full-stack projects. I leverage technologies such as JavaScript, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, HTML5, and CSS3 to bring ideas to fruition.
 
-* 🌍  I'm based in South Africa
-* 🚀  I'm currently working on Ruby on Rails, Next.js, and React.js Projects
-* 🧠  I'm learning Node.js, Express, and MongoDB
-* 🤝  I'm open to collaborating on React.js, Next.js, and Ruby on Rails projects
-* ⚡  I enjoy Hiking and Swimming
+What fuels my passion for programming is the opportunity to create tools that directly impact people's lives. During my free time, I enjoy tackling coding challenges of varying complexities on platforms like LeetCode. I am committed to continuous improvement, utilizing resources such as FreeCodeCamp and Udemy to stay updated on the ever-evolving tech landscape.
+
+In addition to personal growth, I find fulfillment in contributing to the community. As a volunteer at Microverse, I serve as a mentor, offering support to trainees during and after classes, conducting code reviews, assisting with tech projects, and contributing to the establishment of an inclusive space where aspiring developers can thrive.
+
+In essence, I am not just a developer; I am on a perpetual journey of exploration, learning, and contribution in the dynamic realm of technology.
 
 
 
