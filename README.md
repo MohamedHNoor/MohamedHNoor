@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 
-I'm a dedicated and passionate full-stack web developer, deeply immersed in a variety of full-stack projects. I leverage technologies such as JavaScript, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, HTML5, and CSS3 to bring ideas to fruition.
+I am a dedicated and passionate full-stack web developer, deeply immersed in a variety of full-stack projects. I leverage technologies such as JavaScript, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, HTML5, and CSS3 to bring ideas to fruition.
 
 What fuels my passion for programming is the opportunity to create tools that directly impact people's lives. During my free time, I enjoy tackling coding challenges of varying complexities on platforms like LeetCode. I am committed to continuous improvement, utilizing resources such as FreeCodeCamp and Udemy to stay updated on the ever-evolving tech landscape.
 
