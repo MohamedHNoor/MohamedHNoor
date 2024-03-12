@@ -1,10 +1,14 @@
 <h1 align="left">Hi 👋 My name is Mohamed Hassan Noor</h1>
 
+###
+
 <h2 align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=6000&pause=200&color=35B7F1&width=550&height=45&lines=I'm+Full+Stack+Web+Developer+;" alt="Typing SVG">
   </a>
 </h2>
+
+###
 
 # 💫 About Me:
 
@@ -16,7 +20,7 @@ In addition to personal growth, I find great satisfaction in giving back to the 
 
 In summary, I am not simply a developer; I am on a constant journey of exploration, learning, and contributing to the dynamic world of technology.
 
-
+###
 
 # 🌐 Connect with me:
 <div align="left">
@@ -31,6 +35,7 @@ In summary, I am not simply a developer; I am on a constant journey of explorati
   </a>
 </div>
 
+###
 
 # 💻 Languages and Tools:
 <div align="left">
@@ -70,11 +75,16 @@ In summary, I am not simply a developer; I am on a constant journey of explorati
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" height="40" alt="heroku logo"  />
 </div>
+
+###
+
 # 🏆 Certificates & Licenses
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/71768d9d-7007-4325-bfc4-c87863d5976a#gs.1n1dfd" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75814280" width="80"></a> &nbsp; <a href="https://www.credential.net/809a0fdd-8bc5-48fe-8c55-0c72c4c02612#gs.z7vgou" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74008901" width="80"></a> &nbsp;
   <a href="https://www.credential.net/a2385cff-5f66-4522-999f-e63465a6166b#gs.z7vi8b" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809567" width="80"></a> &nbsp; <a href="https://www.credential.net/cb08f6cf-5755-4c11-8b58-2dc6e4dabded#gs.z7vkcu" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557201" width="80"></a> &nbsp; <a href="https://www.credential.net/fbdf8cf9-55be-4c4b-a8ad-f4a8513c83d1#gs.z7vn3b" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67898357" width="80"></a> &nbsp; <a href="https://www.credential.net/d3249240-4429-48af-823c-06d352dac3bf#gs.z7vpdy" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/65926244" width="80"></a> &nbsp; <a href="https://www.credential.net/58bda878-e7b7-4873-807f-ca47a7f20cad#gs.z7vr4h" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/58586998" width="80"></a>
 </p>
+
+###
 
 # 📊 GitHub Stats:
 <div align="left">
@@ -83,12 +93,9 @@ In summary, I am not simply a developer; I am on a constant journey of explorati
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedHNoor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MohamedHNoor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
+###
 
 [![](https://visitcount.itsvg.in/api?id=MohamedHNoor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
+
