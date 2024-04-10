@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 
-I am  skilled and enthusiastic full-stack developer, with a wealth of experience working on a range of projects. I use a variety of technologies, including JavaScript, React Native, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, HTML5, and CSS3 to turn ideas into reality.
+I am  a skilled and enthusiastic full-stack developer, with a wealth of experience working on a range of projects. I use a variety of technologies, including JavaScript, React Native, React, Redux, Next.js, Node.js, Express, Ruby on Rails, PostgreSQL, MongoDB, HTML5, and CSS3 to turn ideas into reality.
 
 What drives me in programming is the ability to create tools that have a direct impact on people's lives. In my free time, I enjoy tackling coding challenges of varying complexity on platforms like LeetCode. I am dedicated to ongoing improvement and use resources such as FreeCodeCamp and Udemy to stay up-to-date with the ever-changing tech landscape.
 
