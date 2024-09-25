@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am a passionate Full-Stack Developer with experience in building dynamic, user-centered applications. I specialize in `Ruby on Rails`, `Next.js`, `React`, and `React Native` for web and mobile applications. By leveraging these technologies, I create full-stack solutions that seamlessly integrate server-side logic with rich client-side interactions.
+I'm a passionate Full-Stack Developer with experience in building dynamic, user-centered applications. I specialize in `Ruby on Rails`, `Next.js`, `React`, and `React Native` for web and mobile applications. By leveraging these technologies, I create full-stack solutions that seamlessly integrate server-side logic with rich client-side interactions.
 
 I am driven by the process of crafting clean, efficient code and enjoy solving complex problems. My focus is always on building scalable, intuitive applications that deliver excellent user experiences across web and mobile platforms.
 
