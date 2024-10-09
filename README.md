@@ -1,7 +1,7 @@
 ## 💫 About Me:
-I'm a passionate Full-Stack Developer with experience in building dynamic, user-centered applications. I specialize in `Ruby on Rails`, `Next.js`, `React`, and `React Native` for web and mobile applications. By leveraging these technologies, I create full-stack solutions that seamlessly integrate server-side logic with rich client-side interactions.
+I'm a dedicated Software Engineer with a strong track record in creating dynamic, user-focused applications. With expertise in Ruby on Rails, Next.js, React, and React Native, I develop comprehensive web and mobile solutions that blend robust server-side architecture with engaging client-side interactions.
 
-I am driven by the process of crafting clean, efficient code and enjoy solving complex problems. My focus is always on building scalable, intuitive applications that deliver excellent user experiences across web and mobile platforms.
+I’m passionate about writing clean, efficient code and thrive on solving complex challenges. My priority is always on crafting scalable, intuitive applications that deliver seamless user experiences across both web and mobile platforms. Whether I’m building from the ground up or optimizing existing systems, my goal is to create technology that truly makes an impact.
 
 ## 📫 How to Reach Me:
  Feel free to reach out through [LinkedIn](https://www.linkedin.com/in/mohamedhnoor/) or email me at `mohmed.hassannoor114@gmail.com`.
