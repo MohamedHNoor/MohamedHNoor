@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I'm a Software Engineer with a diverse skill set and a passion for building impactful applications across web and mobile platforms. My expertise spans JavaScript, Ruby, React.js, Next.js, React Native Expo, Ruby on Rails, PostgreSQL, Supabase, and Tailwind CSS. I leverage this extensive technical knowledge to create robust server-side solutions and seamless client-side experiences that engage users.
+I am a Software Engineer with a diverse skill set and a passion for building impactful applications across web and mobile platforms. My expertise spans JavaScript, Ruby, React.js, Next.js, React Native Expo, Ruby on Rails, PostgreSQL, Supabase, and Tailwind CSS. I leverage this extensive technical knowledge to create robust server-side solutions and seamless client-side experiences that engage users.
 
 In addition to my technical abilities, I bring strong problem-solving skills, attention to detail, and adaptability to every project. I excel at quickly understanding complex requirements and translating them into practical, user-friendly solutions. For example, in my current work with a laundry app, I designed an intuitive interface using Prisma and Supabase to streamline database management, enhancing the admin and user experiences.
 
