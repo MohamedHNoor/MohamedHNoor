@@ -1,7 +1,7 @@
 ## 💫 About Me:
-I'm a Full Stack Engineer with expertise in JavaScript, Ruby, React.js, Next.js, React Native Expo, Ruby on Rails, PostgreSQL, Supabase, and Tailwind CSS. I create impactful web and mobile applications by delivering robust backend solutions and seamless user experiences.
+I'm a Full Stack Engineer with expertise in JavaScript, Ruby, React.js, Next.js, React Native & Expo, Ruby on Rails, PostgreSQL, Supabase, and Tailwind CSS. I create impactful web and mobile applications by delivering robust backend solutions and seamless user experiences.
 
-I excel at solving complex problems, translating requirements into user-friendly solutions, and collaborating effectively with teams. Recently, I streamlined database management for a laundry app using Prisma and Supabase, enhancing admin and user workflows.
+I excel at solving complex business problems, translating requirements into user-friendly solutions, and collaborating effectively with teams remotely.
 
 Passionate about learning and innovation, I aim to deepen my expertise in cloud technologies and backend development while building applications that drive real-world impact.
 
