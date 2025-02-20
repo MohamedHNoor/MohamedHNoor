@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am a Full Stack Engineer with expertise in JavaScript, Ruby, React.js, Next.js, React Native & Expo, Ruby on Rails, PostgreSQL, Supabase, and Tailwind CSS. I create impactful web and mobile applications by delivering robust backend solutions and seamless user experiences.
+I am a Full Stack Developer with expertise in JavaScript, Ruby, React.js, Next.js, React Native & Expo, Ruby on Rails, PostgreSQL, Supabase, and Tailwind CSS. I create impactful web and mobile applications by delivering robust backend solutions and seamless user experiences.
 
 I excel at solving complex business problems, translating requirements into user-friendly solutions, and collaborating effectively with teams remotely.
 
