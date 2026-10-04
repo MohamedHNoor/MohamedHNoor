@@ -1,25 +1,219 @@
-## 💫 About Me:
-I am an experienced Full Stack Developer proficient in JavaScript, React.js, Next.js, Ruby on Rails, Node.js, Express.js, MongoDB, PostgreSQL, HTML5, CSS3, and Tailwind CSS. I specialize in developing powerful web applications with strong backend solutions and intuitive user interfaces. 
+# Hi, I'm Mohamed 👋
 
-I possess a talent for resolving intricate business challenges, transforming needs into user-centric solutions, and engaging in productive remote teamwork. 
+### Full-Stack Web Developer building modern websites and web applications for businesses, startups, and agencies.
 
-Driven by a passion for continual growth and creativity, I aspire to enhance my skills in cloud technologies and backend development, creating applications that make a tangible difference in the real world.
+I help businesses turn ideas, designs, and manual processes into **production-ready web applications**.
 
-## Connect with Me
+My primary focus is **Next.js, React, TypeScript, Node.js, and PostgreSQL**, with experience building everything from marketing websites and customer portals to SaaS platforms, booking systems, dashboards, APIs, and payment workflows.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamedhnoor/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/MohamedHNoor)
-[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail)](mailto:mohmed.hassannoor114@gmail.com)
+Based in **Wellington, New Zealand**, and available to work with clients across New Zealand, Australia, and internationally.
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohamedHNoor&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohamedHNoor&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedHNoor&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**[Start a project →](https://www.mohamedhnoor.com)**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MohamedHNoor&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I Build
+
+### 🌐 Business Websites
+
+Fast, responsive websites designed to give businesses a professional online presence and turn visitors into enquiries.
+
+* Business websites
+* Service websites
+* Landing pages
+* Marketing websites
+* Portfolio websites
+* Booking websites
+* E-commerce websites
+
+### 💻 Custom Web Applications
+
+Business software designed around your actual workflow.
+
+* Customer portals
+* Admin dashboards
+* Booking systems
+* Management platforms
+* CRM-style applications
+* Internal business tools
+* REST APIs
+* Third-party integrations
+
+### 🚀 SaaS Products
+
+From an idea or prototype to a production-ready product.
+
+* User authentication
+* Role-based access
+* PostgreSQL databases
+* Subscription payments
+* Payment webhooks
+* Multi-tenant architecture
+* Admin dashboards
+* API integrations
+* Automated testing
+* Production deployment
+
+### 🎨 Figma → Production
+
+Have a finished Figma design but no development team?
+
+I turn designs into responsive, accessible and production-ready **Next.js applications**.
+
+---
+
+## Selected Work
+
+### ✈️ Travel Commerce Platform
+
+A multi-tenant travel platform for flights, hotels and cars with customer, agent and corporate workflows.
+
+**Built with:** Node.js · TypeScript · Express.js · PostgreSQL · Drizzle · React · Vite · Docker
+
+**Engineering highlights:**
+
+* 234 automated server tests
+* PostgreSQL Row-Level Security
+* Tenant isolation
+* Atomic wallet transactions
+* Payment webhook replay protection
+* Concurrent booking protection
+* CI testing against PostgreSQL
+
+**[View case study →](https://www.mohamedhnoor.com/projects/travelgrid-africa)**
+
+---
+
+### 🎨 Figma → Production Portfolio
+
+A production Next.js website built from a design reference with a focus on accessibility, performance and responsive behaviour.
+
+**Engineering highlights:**
+
+* 100/100 Lighthouse accessibility
+* 0 axe accessibility violations
+* Responsive design
+* Typed content architecture
+* Production deployment
+* Performance-focused implementation
+
+**[View case study →](https://www.mohamedhnoor.com/projects)**
+
+---
+
+## Tech Stack
+
+### Frontend
+
+`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui`
+
+### Backend
+
+`Node.js` `Express.js` `Ruby on Rails` `REST APIs`
+
+### Database
+
+`PostgreSQL` `Neon` `Supabase` `MongoDB`
+
+### Data & Architecture
+
+`Drizzle ORM` `Prisma` `Authentication` `Multi-tenancy` `Row-Level Security`
+
+### Payments & Integrations
+
+`Stripe` `Paystack` `REST APIs` `Webhooks`
+
+### DevOps
+
+`Docker` `GitHub Actions` `Vercel` `Railway`
+
+---
+
+## How I Work
+
+I use a simple milestone-based development process.
+
+### 1. Discovery
+
+We define the business problem, goals, users and required functionality.
+
+### 2. Planning
+
+I break the project into clear features and development milestones.
+
+### 3. Development
+
+The application is built in small, reviewable pieces.
+
+### 4. Staging & Review
+
+You can review the working application as development progresses.
+
+### 5. Testing
+
+Important business logic is tested before release.
+
+### 6. Deployment
+
+The application is deployed to production and prepared for handover.
+
+### 7. Handover
+
+You receive the codebase, deployment information and documentation needed to maintain the product.
+
+---
+
+## Why Clients Work With Me
+
+* Full-stack development from frontend to backend
+* Business-focused rather than technology-first
+* Modern TypeScript and React architecture
+* Responsive and accessible interfaces
+* Secure authentication and database design
+* Payment and API integrations
+* Automated testing for important business logic
+* Clear milestone-based development
+* Production deployment
+* Complete codebase handover
+
+---
+
+## Who I Work With
+
+**Businesses** that need a professional website or custom software.
+
+**Startups** building an MVP or launching their first SaaS product.
+
+**Agencies** that need a reliable developer to turn Figma designs into production-ready Next.js websites.
+
+**Entrepreneurs** who have an idea and need someone to turn it into a working product.
+
+---
+
+## Based in New Zealand 🇳🇿
+
+I'm based in **Wellington, New Zealand**, and work with clients across:
+
+🇳🇿 New Zealand
+🇦🇺 Australia
+🌎 Internationally
+
+---
+
+## Have a Project in Mind?
+
+If you need a website, web application, SaaS product, booking system, dashboard, or custom business platform, I'd be happy to discuss it.
+
+### → [Start a project](https://www.mohamedhnoor.com)
+
+Or email:
+
+**[info@mohamedhnoor.com](mailto:info@mohamedhnoor.com)**
+
+---
+
+### More
+
+🌐 [Portfolio](https://www.mohamedhnoor.com)
+💼 [LinkedIn](https://www.linkedin.com/in/mohamedhnoor)
+🐙 [GitHub](https://github.com/MohamedHNoor)
