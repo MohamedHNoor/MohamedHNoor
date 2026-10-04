@@ -2,17 +2,17 @@
 
 ### Full-Stack Web Developer building modern websites and web applications for businesses, startups, and agencies.
 
-I help businesses turn ideas, designs, and manual processes into **production-ready web applications**.
+I help businesses turn **ideas, designs, and manual processes into production-ready web applications**.
 
-My primary focus is **Next.js, React, TypeScript, Node.js, and PostgreSQL**, with experience building everything from marketing websites and customer portals to SaaS platforms, booking systems, dashboards, APIs, and payment workflows.
+My primary focus is **Next.js, React, TypeScript, Node.js, and PostgreSQL**, with experience building everything from business websites and customer portals to SaaS platforms, booking systems, dashboards, APIs, e-commerce solutions, and payment workflows.
 
-Based in **Wellington, New Zealand**, and available to work with clients across New Zealand, Australia, and internationally.
+Based in **Wellington, New Zealand**, and available to work with clients across **New Zealand, Australia, and internationally**.
 
-**[Start a project →](https://www.mohamedhnoor.com/contact)**
+[**Start a project →**](https://www.mohamedhnoor.com/contact)
 
 ---
 
-## What I Build
+## 🚀 What I Build
 
 ### 🌐 Business Websites
 
@@ -34,165 +34,381 @@ Business software designed around your actual workflow.
 * Admin dashboards
 * Booking systems
 * Management platforms
-* CRM-style applications
 * Internal business tools
 * REST APIs
-* Third-party integrations
+* Authentication systems
+* Payment integrations
+* Data-driven applications
 
-### 🚀 SaaS Products
+### 📦 SaaS Products
 
-From an idea or prototype to a production-ready product.
+From an initial idea to a production-ready SaaS application.
 
 * User authentication
-* Role-based access
+* Account management
+* Role-based access control
+* Subscription and billing workflows
 * PostgreSQL databases
-* Subscription payments
-* Payment webhooks
-* Multi-tenant architecture
 * Admin dashboards
 * API integrations
-* Automated testing
-* Production deployment
+* Background jobs
+* Deployment and infrastructure
 
 ### 🎨 Figma → Production
 
-Have a finished Figma design but no development team?
+I turn Figma designs and product specifications into responsive, accessible, production-ready web applications.
 
-I turn designs into responsive, accessible and production-ready **Next.js applications**.
+* Pixel-conscious implementation
+* Responsive layouts
+* Reusable components
+* Accessible interfaces
+* Performance optimization
+* Production deployment
 
 ---
 
-## Selected Work
+## ⭐ Selected Work
 
-### ✈️ Travel Commerce Platform
+### ✈️ TravelGrid Africa
 
-A multi-tenant travel platform for flights, hotels and cars with customer, agent and corporate workflows.
-
-**Built with:** Node.js · TypeScript · Express.js · PostgreSQL · Drizzle · React · Vite · Docker
+A multi-tenant travel commerce platform designed around flight, hotel, and car booking workflows.
 
 **Engineering highlights:**
 
-* 234 automated server tests
-* PostgreSQL Row-Level Security
+* Multi-tenant architecture
+* PostgreSQL row-level security
 * Tenant isolation
 * Atomic wallet transactions
-* Payment webhook replay protection
-* Concurrent booking protection
-* CI testing against PostgreSQL
+* Payment workflows
+* Webhook verification
+* Booking workflows
+* Role-based access
+* REST APIs
+* Automated testing
 
-**[View case study →](https://www.mohamedhnoor.com/projects/travelgrid-africa)**
+**Current engineering metrics:**
+
+* **357 automated server tests**
+* PostgreSQL RLS
+* Tenant-isolated data
+* Atomic financial transactions
+* Concurrency protection
+
+**Technology:**
+
+`TypeScript` · `Node.js` · `Express` · `PostgreSQL` · `Drizzle` · `React` · `Vite` · `Docker`
 
 ---
 
-### 🎨 Figma → Production Portfolio
+### 🌐 MohamedHNoor.com
 
-A production Next.js website built from a design reference with a focus on accessibility, performance and responsive behaviour.
+My production portfolio website, built to demonstrate modern frontend engineering, performance, accessibility, and business-focused UX.
 
-**Engineering highlights:**
+**Highlights:**
 
-* 100/100 Lighthouse accessibility
-* 0 axe accessibility violations
+* Next.js application
 * Responsive design
-* Typed content architecture
+* Accessible UI
+* SEO-focused structure
+* Performance optimization
+* Contact workflow
 * Production deployment
-* Performance-focused implementation
 
-**[View case study →](https://www.mohamedhnoor.com/projects//portfolio-site)**
+**Performance:**
+
+* **100/100 Lighthouse Accessibility**
+* **0 axe accessibility violations**
+* **88 ms LCP**
+
+**Technology:**
+
+`Next.js` · `React` · `TypeScript` · `Tailwind CSS` · `Vercel`
 
 ---
 
-## Tech Stack
+## 🛠️ My Primary Stack
+
+I focus on a modern TypeScript-based stack for most new projects.
 
 ### Frontend
 
-`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui`
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat\&logo=tailwindcss\&logoColor=white)
 
 ### Backend
 
-`Node.js` `Express.js` `Ruby on Rails` `REST APIs`
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat\&logo=express\&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat\&logo=rubyonrails\&logoColor=white)
 
-### Database
+### Database & ORM
 
-`PostgreSQL` `Neon` `Supabase` `MongoDB`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat\&logo=postgresql\&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E5CC?style=flat\&logo=neon\&logoColor=black)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=flat\&logo=drizzle\&logoColor=black)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat\&logo=supabase\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
 
-### Data & Architecture
+### Integrations & Infrastructure
 
-`Drizzle ORM` `Prisma` `Authentication` `Multi-tenancy` `Row-Level Security`
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat\&logo=stripe\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat\&logo=githubactions\&logoColor=white)
 
-### Payments & Integrations
+### Additional Experience
 
-`Stripe` `Paystack` `REST APIs` `Webhooks`
-
-### DevOps
-
-`Docker` `GitHub Actions` `Vercel` `Railway`
+`JavaScript` · `React Native` · `Expo` · `Vite` · `Redux` · `TanStack Query` · `React Hook Form` · `Zod` · `Firebase` · `Redis` · `Paystack`
 
 ---
 
-## How I Work
+## 🧩 What I Care About
 
-I use a simple milestone-based development process.
+Writing code is only part of building a successful product.
+
+I focus on:
+
+### Business Outcomes
+
+The application should solve a real problem, improve a workflow, generate revenue, reduce manual work, or make the customer experience better.
+
+### Production Readiness
+
+Applications should be designed for real users, not just demonstrations.
+
+That means considering:
+
+* Authentication
+* Authorization
+* Validation
+* Error handling
+* Security
+* Database integrity
+* Performance
+* Accessibility
+* Testing
+* Monitoring
+* Deployment
+
+### Maintainable Code
+
+I prefer clear architecture, strongly typed code, reusable components, predictable data flows, and systems that another developer can understand and maintain.
+
+### User Experience
+
+Good engineering should be invisible to the user.
+
+Interfaces should be:
+
+* Fast
+* Responsive
+* Accessible
+* Intuitive
+* Consistent
+* Easy to use
+
+---
+
+## 🔐 Engineering & Security
+
+For business applications, I pay particular attention to application security and data integrity.
+
+Depending on the project, this can include:
+
+* Secure authentication
+* Role-based access control
+* Server-side authorization
+* Input validation
+* Database constraints
+* PostgreSQL transactions
+* Row-level security
+* Tenant isolation
+* Secure payment workflows
+* Webhook verification
+* Replay protection
+* Environment variable management
+* API security
+* Automated tests
+
+---
+
+## 🧪 Testing
+
+I believe important business logic should be tested before it reaches production.
+
+Depending on the application, I use:
+
+* Unit tests
+* Integration tests
+* API tests
+* Database tests
+* Authentication tests
+* Authorization tests
+* Payment workflow tests
+* End-to-end testing
+
+For example, TravelGrid Africa currently includes **357 automated server tests** covering important application and business logic.
+
+---
+
+## 📈 Performance & Accessibility
+
+I build with performance and accessibility in mind from the beginning rather than treating them as final-stage fixes.
+
+Areas I consider include:
+
+* Core Web Vitals
+* Server-side rendering
+* Efficient data fetching
+* Image optimization
+* Code splitting
+* Semantic HTML
+* Keyboard navigation
+* Screen-reader accessibility
+* Color contrast
+* Form accessibility
+* Responsive design
+
+My own portfolio currently demonstrates this approach with **100/100 Lighthouse accessibility**, **0 axe violations**, and an **88 ms LCP** measurement.
+
+---
+
+## 🤝 How I Work With Clients
+
+I prefer a straightforward development process.
 
 ### 1. Discovery
 
-We define the business problem, goals, users and required functionality.
+We discuss your idea, business, users, requirements, and goals.
 
 ### 2. Planning
 
-I break the project into clear features and development milestones.
+I break the project into clear features, technical requirements, and milestones.
 
-### 3. Development
+### 3. Design & Specification
 
-The application is built in small, reviewable pieces.
+I work from your existing Figma designs, specifications, wireframes, or website references.
 
-### 4. Staging & Review
+If you don't have designs, I can help define the interface and technical requirements before development.
 
-You can review the working application as development progresses.
+### 4. Development
 
-### 5. Testing
+I build the application incrementally using a milestone-based approach.
 
-Important business logic is tested before release.
+### 5. Testing & Review
+
+Features are tested and reviewed before being considered complete.
 
 ### 6. Deployment
 
-The application is deployed to production and prepared for handover.
+The application is prepared and deployed to the appropriate production infrastructure.
 
 ### 7. Handover
 
-You receive the codebase, deployment information and documentation needed to maintain the product.
+You receive the source code and the knowledge required to continue operating or developing the application.
 
 ---
 
-## Why Clients Work With Me
+## 💰 Milestone-Based Development
 
-* Full-stack development from frontend to backend
-* Business-focused rather than technology-first
-* Modern TypeScript and React architecture
-* Responsive and accessible interfaces
-* Secure authentication and database design
-* Payment and API integrations
-* Automated testing for important business logic
-* Clear milestone-based development
-* Production deployment
-* Complete codebase handover
+For larger projects, I prefer **milestone-based development**.
+
+Instead of treating a project as one large delivery, we can break it into clearly defined modules or features.
+
+For example:
+
+```text
+Project
+│
+├── Authentication
+├── User Dashboard
+├── Customer Management
+├── Payments
+├── Notifications
+├── Admin Dashboard
+└── Deployment
+```
+
+Each milestone has a defined scope and completion criteria.
+
+This gives both sides better visibility into:
+
+* What is being built
+* What has been completed
+* What comes next
+* When a milestone is ready for review
+* When payment is due
 
 ---
 
-## Who I Work With
+## 👨‍💻 Why Work With Me?
 
-**Businesses** that need a professional website or custom software.
+### Full-Stack Development
 
-**Startups** building an MVP or launching their first SaaS product.
+You don't need separate frontend and backend developers for many projects.
 
-**Agencies** that need a reliable developer to turn Figma designs into production-ready Next.js websites.
+I can work across the entire application:
 
-**Entrepreneurs** who have an idea and need someone to turn it into a working product.
+**UI → Frontend → API → Database → Authentication → Payments → Deployment**
+
+### Direct Communication
+
+You work directly with the developer building your product.
+
+There is no unnecessary communication layer between you and the person writing the code.
+
+### Business-Focused
+
+I don't just implement tickets.
+
+I try to understand the underlying business problem and build the appropriate technical solution.
+
+### Modern Technology
+
+I use modern frameworks and tools that are well suited to building maintainable production applications.
+
+### Clear Milestones
+
+Large projects are broken into manageable milestones so progress remains visible throughout development.
+
+### Production Mindset
+
+I think beyond the happy path and consider security, validation, testing, performance, accessibility, deployment, and maintainability.
+
+### Code Ownership
+
+You receive the code for the product you commissioned and can continue developing it after the project is completed.
 
 ---
 
-## Based in New Zealand 🇳🇿
+## 👥 Who I Work With
 
-I'm based in **Wellington, New Zealand**, and work with clients across:
+### 🏢 Businesses
+
+Businesses looking to replace manual processes, improve their online presence, or build custom internal/customer software.
+
+### 🚀 Startups
+
+Founders who need an MVP or production-ready product without building a large engineering team immediately.
+
+### 🧑‍💼 Entrepreneurs
+
+People with an idea who need a developer to turn the concept into a working product.
+
+### 🏗️ Agencies
+
+Agencies that need additional development capacity or a reliable developer for frontend, backend, or full-stack work.
+
+---
+
+## 🌏 Based in New Zealand. Working Globally.
+
+📍 **Wellington, New Zealand**
+
+I work with clients in:
 
 🇳🇿 New Zealand
 🇦🇺 Australia
@@ -200,20 +416,61 @@ I'm based in **Wellington, New Zealand**, and work with clients across:
 
 ---
 
-## Have a Project in Mind?
+## 📂 GitHub Projects
 
-If you need a website, web application, SaaS product, booking system, dashboard, or custom business platform, I'd be happy to discuss it.
+Most of my repositories are experiments, learning projects, prototypes, or production applications built at different stages of my development journey.
 
-### → [Start a project](https://www.mohamedhnoor.com/contact)
+For client work, I prioritize repositories that demonstrate:
 
-Or email:
-
-**[info@mohamedhnoor.com](mailto:info@mohamedhnoor.com)**
+* Real business problems
+* Production architecture
+* Full-stack development
+* Database design
+* Authentication
+* Payments
+* Testing
+* Security
+* Deployment
 
 ---
 
-### More
+## 📬 Start a Project
 
-🌐 [Portfolio](https://www.mohamedhnoor.com)
-💼 [LinkedIn](https://www.linkedin.com/in/mohamedhnoor)
-🐙 [GitHub](https://github.com/MohamedHNoor)
+Have a website, web application, SaaS idea, booking system, dashboard, or business process you'd like to improve?
+
+I'd like to hear about it.
+
+You can send:
+
+* A Figma design
+* An existing website
+* A product specification
+* A rough idea
+* A description of the business problem
+
+I'll help turn it into a practical development plan.
+
+### 👉 [Tell me what you're building](https://www.mohamedhnoor.com/contact)
+
+Or visit my portfolio:
+
+### 🌐 [mohamedhnoor.com](https://www.mohamedhnoor.com/)
+
+---
+
+## 📫 Contact
+
+**Email:** [info@mohamedhnoor.com](mailto:info@mohamedhnoor.com)
+
+**Portfolio:** [mohamedhnoor.com](https://www.mohamedhnoor.com/)
+
+**LinkedIn:** [linkedin.com/in/mohamedhnoor](https://www.linkedin.com/in/mohamedhnoor/)
+
+**GitHub:** [github.com/MohamedHNoor](https://github.com/MohamedHNoor)
+
+---
+
+### Let's build something useful. 🚀
+
+**Mohamed Noor**
+Full-Stack Web Developer · Wellington, New Zealand
