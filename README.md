@@ -8,7 +8,7 @@ My primary focus is **Next.js, React, TypeScript, Node.js, and PostgreSQL**, wit
 
 Based in **Wellington, New Zealand**, and available to work with clients across New Zealand, Australia, and internationally.
 
-**[Start a project →](https://www.mohamedhnoor.com)**
+**[Start a project →](https://www.mohamedhnoor.com/contact)**
 
 ---
 
@@ -97,7 +97,7 @@ A production Next.js website built from a design reference with a focus on acces
 * Production deployment
 * Performance-focused implementation
 
-**[View case study →](https://www.mohamedhnoor.com/projects)**
+**[View case study →](https://www.mohamedhnoor.com/projects//portfolio-site)**
 
 ---
 
@@ -204,7 +204,7 @@ I'm based in **Wellington, New Zealand**, and work with clients across:
 
 If you need a website, web application, SaaS product, booking system, dashboard, or custom business platform, I'd be happy to discuss it.
 
-### → [Start a project](https://www.mohamedhnoor.com)
+### → [Start a project](https://www.mohamedhnoor.com/contact)
 
 Or email:
 
